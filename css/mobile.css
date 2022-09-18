@@ -74,6 +74,12 @@
     align-items: center;
     justify-content: center;
   }
+  
+  /* PHẦN FOOTTER */
+
+  .footer-link a {
+    display: none;
+  }
 
   /* TIEMLINE SECTION */
   .project-icon {
